@@ -19,13 +19,6 @@ Data Analysis (Pandas, NumPy)
 
 Visualization (Matplotlib, Seaborn)
 
-## How to Run
-Clone the repository: git clone https://github.com/yourusername/project-name.git
-
-Install requirements: pip install pandas scikit-learn matplotlib
-
-Run the project: Open the .ipynb file in Jupyter Notebook or run python main.py
-
 ## Note
 Ensure the dataset file (e.g., predictive_maintenance.csv) is in the same directory as the script for the code to execute correctly.
 
